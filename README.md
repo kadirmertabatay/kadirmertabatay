@@ -4,13 +4,10 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Embedded+Systems+Engineer;AI+%26+ML+Enthusiast;Building+the+Future)](https://git.io/typing-svg)
   
-  **🌍 Language / Dil:** [English](#english) | [Türkçe](#turkish)
+
   
 </div>
 
----
-
-<a name="english"></a>
 ## 🚀 About Me
 
 Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engineer**, and **AI/ML Enthusiast**. I work across a wide spectrum—from web and mobile development to embedded systems, from artificial intelligence and computer vision to FPGA programming. By specializing in different layers of technology, I create integrated solutions spanning hardware to software, front-end to deep learning.
@@ -109,26 +106,6 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadirmertabatay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kadirmertabatay&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirmertabatay&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kadirmertabatay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
 ## 📈 Activity Graph
 
 [![Kadir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kadirmertabatay&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -177,61 +154,6 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
   ### ⭐ If you like my projects, don't forget to star them!
   
 </div>
-
----
-
-<a name="turkish"></a>
-# 🇹🇷 Türkçe Versiyon
-
-## 🚀 Hakkımda
-
-Merhaba! Ben Kadir Mert Abatay, **Full-Stack Developer**, **Gömülü Sistemler Mühendisi** ve **Yapay Zeka/Makine Öğrenmesi Meraklısı**. Web ve mobil geliştirmeden gömülü sistemlere, yapay zeka ve bilgisayarlı görüden FPGA programlamaya kadar geniş bir yelpazede çalışıyorum. Teknolojinin farklı katmanlarında uzmanlaşarak, donanımdan yazılıma, front-end'den derin öğrenmeye kadar entegre çözümler üretiyorum.
-
-- 🔭 Şu anda **Yapay Zeka Destekli Gömülü Sistemler** ve **Bilgisayarlı Görü** projeleri üzerinde çalışıyorum
-- 🌱 **Büyük Dil Modelleri (LLM)** ve **FPGA Geliştirme** konularında derinleşiyorum
-- 💻 **React/Next.js** ile modern web uygulamaları ve **React Native** ile mobil uygulamalar geliştiriyorum
-- 🤖 **Derin Öğrenme**, **Bilgisayarlı Görü** ve **Doğal Dil İşleme** alanlarında aktif projelerim var
-- ⚡ **STM32** ve **FPGA** ile donanım-yazılım entegrasyonu yapıyorum
-- 🐍 **Python (Django/Flask)** ile backend sistemler kuruyorum
-- 👯 Açık kaynak projelerde işbirliğine açığım
-- 📫 Bana ulaşın: **[email@example.com]**
-
-## 🎯 Uzmanlık Alanlarım
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🌐 Web ve Mobil
-- ⚛️ React & React Native
-- ▲ Next.js
-- 🐍 Django & Flask
-- 📱 Platformlar Arası Geliştirme
-- 🎨 Duyarlı UI/UX
-
-</td>
-<td width="33%" valign="top">
-
-### 🔌 Gömülü Sistemler
-- 🎛️ STM32 Mikrodenetleyiciler
-- 💾 FPGA Programlama
-- ⚙️ Gömülü C/C++
-- 🔧 Donanım-Yazılım Entegrasyonu
-- 📡 IoT Çözümleri
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 Yapay Zeka
-- 🧠 Derin Öğrenme
-- 👁️ Bilgisayarlı Görü
-- 💬 Büyük Dil Modelleri (LLM)
-- 📊 Model Mimarisi Tasarımı
-- 🎯 ML Dağıtımı
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
