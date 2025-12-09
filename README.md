@@ -82,15 +82,6 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 
 [![Kadir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kadirmertabatay&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kadirmertabatay&repo=project-1&theme=tokyonight&hide_border=true)](https://github.com/kadirmertabatay/project-1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kadirmertabatay&repo=project-2&theme=tokyonight&hide_border=true)](https://github.com/kadirmertabatay/project-2)
-
-</div>
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -104,10 +95,8 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kadirmertabatay)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kadirmertabatay)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kadirmertabatay.dev)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kadirmertabatay)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadirmertabatay23@gmail.com)
+](https://dev.to/kadirmertabatay)
 
 </div>
 
