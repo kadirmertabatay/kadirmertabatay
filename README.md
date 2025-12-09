@@ -1,14 +1,12 @@
-# 👋 Hi there, I'm Kadir Mert Abatay
+# Hi there, I'm Kadir Mert Abatay
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Embedded+Systems+Engineer;AI+%26+ML+Enthusiast;Building+the+Future)](https://git.io/typing-svg)
-  
 
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Embedded+Systems+Engineer;AI+%26+ML+Enthusiast;Building+the+Future)](https://git.io/typing-svg)
+
 </div>
 
-## 🚀 About Me
+## About Me
 
 Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engineer**, and **AI/ML Enthusiast**. I work across a wide spectrum—from web and mobile development to embedded systems, from artificial intelligence and computer vision to FPGA programming. By specializing in different layers of technology, I create integrated solutions spanning hardware to software, front-end to deep learning.
 
@@ -19,11 +17,12 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 - ⚡ Hardware-software integration with **STM32** and **FPGA**
 - 🐍 Building backend systems with **Python (Django/Flask)**
 - 👯 Open to collaborating on open-source projects
-- 📫 Reach me at: **[email@example.com]**
+- 📫 Reach me at: **kadirmertabatay23@gmail.com**
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -33,6 +32,7 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🌐 Web & Mobile Development
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -43,6 +43,7 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### 🤖 AI & Machine Learning
+
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -53,6 +54,7 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### 🔌 Embedded Systems & Hardware
+
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
@@ -61,6 +63,7 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 ![RTOS](https://img.shields.io/badge/-RTOS-00979D?style=flat-square&logo=freertos&logoColor=white)
 
 ### 🗄️ Database & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -74,37 +77,6 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 <table>
 <tr>
 <td width="33%" valign="top">
-
-### 🌐 Web & Mobile
-- ⚛️ React & React Native
-- ▲ Next.js
-- 🐍 Django & Flask
-- 📱 Cross-platform Development
-- 🎨 Responsive UI/UX
-
-</td>
-<td width="33%" valign="top">
-
-### 🔌 Embedded Systems
-- 🎛️ STM32 Microcontrollers
-- 💾 FPGA Programming
-- ⚙️ C/C++ for Embedded
-- 🔧 Hardware-Software Integration
-- 📡 IoT Solutions
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 Artificial Intelligence
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 💬 Large Language Models (LLM)
-- 📊 Model Architecture Design
-- 🎯 ML Deployment
-
-</td>
-</tr>
-</table>
 
 ## 📈 Activity Graph
 
@@ -122,8 +94,8 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 ## 💡 Random Dev Quote
 
 <div align="center">
-  
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -142,17 +114,13 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 ---
 
 <div align="center">
-  
-  ### 💭 Random Dev Meme
-  
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-  
-  ### 👀 Profile Views
-  
-  ![Visitor Count](https://profile-counter.glitch.me/kadirmertabatay/count.svg)
-  
-  ### ⭐ If you like my projects, don't forget to star them!
-  
+
+### 💭 Random Dev Meme
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
+### ⭐ If you like my projects, don't forget to star them!
+
 </div>
 
 <div align="center">
