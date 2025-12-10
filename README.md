@@ -80,7 +80,7 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 
 ## 📈 Activity Graph
 
-[![Kadir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kadirmertabatay&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kadir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kadirmertabatay&theme=tokyo-night&hide_border=true&days=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💡 Random Dev Quote
 
