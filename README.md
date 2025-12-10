@@ -2,20 +2,21 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Embedded+Systems+Engineer;AI+%26+ML+Enthusiast;Building+the+Future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Learning+Embedded+Systems;Building+the+Future)](https://git.io/typing-svg)
 
 </div>
 
 ## About Me
 
-Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engineer**, and **AI/ML Enthusiast**. I work across a wide spectrum—from web and mobile development to embedded systems, from artificial intelligence and computer vision to FPGA programming. By specializing in different layers of technology, I create integrated solutions spanning hardware to software, front-end to deep learning.
+Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer** and **AI/ML Enthusiast** with a growing passion for **Embedded Systems**. I work across web and mobile development, artificial intelligence, and computer vision. Currently expanding my knowledge into the hardware world, learning **STM32 microcontrollers** and **FPGA programming**.
 
-- 🔭 Currently working on **AI-powered Embedded Systems** and **Computer Vision** projects
-- 🌱 Deep diving into **LLM (Large Language Models)** and **FPGA Development**
+- 🔭 Currently working on **Computer Vision** and **Web Development** projects
+- 🌱 Learning **STM32 Microcontrollers** and **FPGA Development** (Beginner level)
+- 🚀 Deep diving into **LLM (Large Language Models)** and **Deep Learning architectures**
 - 💻 Building modern web apps with **React/Next.js** and mobile apps with **React Native**
-- 🤖 Active projects in **Deep Learning**, **Computer Vision**, and **NLP**
-- ⚡ Hardware-software integration with **STM32** and **FPGA**
+- 🤖 Active projects in **Computer Vision**
 - 🐍 Building backend systems with **Python (Django/Flask)**
+- ⚡ Exploring **Hardware-Software Integration** and embedded C/C++
 - 👯 Open to collaborating on open-source projects
 - 📫 Reach me at: **kadirmertabatay23@gmail.com**
 
@@ -78,6 +79,37 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 <tr>
 <td width="33%" valign="top">
 
+### 🌐 Web & Mobile
+- ⚛️ React & React Native
+- ▲ Next.js
+- 🐍 Django & Flask
+- 📱 Cross-platform Development
+- 🎨 Responsive UI/UX
+
+</td>
+<td width="33%" valign="top">
+
+### 🔌 Embedded Systems 🌱
+- 🎛️ STM32 Microcontrollers (Learning)
+- 💾 FPGA Programming (Learning)
+- ⚙️ C/C++ for Embedded
+- 🔧 Hardware Basics
+- 📡 IoT Concepts
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Artificial Intelligence
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 💬 Large Language Models (LLM)
+- 📊 Model Architecture Design
+- 🎯 ML Deployment
+
+</td>
+</tr>
+</table>
+
 ## 📈 Activity Graph
 
 [![Kadir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kadirmertabatay&theme=tokyo-night&hide_border=true&days=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -96,7 +128,6 @@ Hi! I'm Kadir Mert Abatay, a **Full-Stack Developer**, **Embedded Systems Engine
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kadirmertabatay)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadirmertabatay23@gmail.com)
-](https://dev.to/kadirmertabatay)
 
 </div>
 
